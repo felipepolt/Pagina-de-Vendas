@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&family=Sigmar&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    text-decoration: none;
+}
+
+header {
+    background-color: rgb(21, 41, 80);
+    padding: 10px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-size:18px 
+}    
+
+header:hover {
+    color: rgb(21, 41, 80);
+    text-shadow: 0 0 4px white;
+}
+
+main {
+    padding: 40px;
+    text-align: center;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+.text1 {
+    font-size: 25px;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}  
+
+.text2 {
+    font-size: 15px;
+    font-family:'Poppins';
+}
+
+.botao {
+    background-color: rgb(21, 41, 80);
+    color: #fff;
+    cursor: pointer;
+    transition: .8s;
+    font-weight: bold;
+    margin-top: 25px;
+    border: 3px solid black;
+    border-radius: 50px;
+    padding: 10px;
+    width: 350px;
+    font-family: 'Poppins';
+    font-size: 22px;
+} 
+
+.botao:hover {
+    transform: scale(1.08);
+    color: rgb(21, 41, 80);
+    text-shadow: 0 0 4px white;
+}
+
+.text3{
+    font-size: 30px;
+    font-family:'Poppins';
+    text-align: center;
+}
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    gap: 2vw;
+    padding: 0 1vw;
+    text-align: center;
+    cursor: pointer;
+}
+
+.botao1 {
+    background-color: rgb(21, 41, 80);
+    color: #fff;
+    cursor: pointer;
+    transition: .8s;
+    font-weight: bold;
+    margin-top: 25px;
+    border: 3px solid black;
+    border-radius: 50px;
+    padding: 10px;
+    width: 350px;
+    font-family: 'Poppins';
+    font-size: 22px;
+    align-items: center;
+} 
+
+.botao1:hover {
+    transform: scale(1.08);
+    color: rgb(21, 41, 80);
+    text-shadow: 0 0 4px white;
+}
+
+.text4 {
+    font-size: 20px;
+    font-family:'Poppins';
+}
+
+.text5 {
+    font-size: 20px;
+    font-family:'Poppins';
+    text-decoration:line-through red 3px;
+}
+
+.text6 {
+    font-size: 15px;
+    font-family:'Poppins';
+}
+
+.text7 {
+    font-size: 50px;
+    font-family:'Poppins';
+}
+
+.text7 h3{
+    font-size: 20px;
+    font-family:'Poppins';
+}
+
+.botao2 {
+    background-color: rgb(21, 41, 80);
+    color: #fff;
+    cursor: pointer;
+    transition: .8s;
+    font-weight: bold;
+    margin-top: 25px;
+    border: 3px solid black;
+    border-radius: 50px;
+    padding: 10px;
+    width: 400px;
+    font-family: 'Poppins';
+    font-size: 22px;
+    align-items: center;
+} 
+
+.botao2:hover {
+    transform: scale(1.08);
+    color: rgb(21, 41, 80);
+    text-shadow: 0 0 4px white;
+}
+
+.efeito-cursor {
+cursor: pointer;
+transition: transform 0.2s ease-in-out;
+}
+    
+.efeito-cursor:hover {
+transform: translateY(-5px);
+}
+
+.separacao {
+    background-color: rgb(21, 41, 80);
+    box-shadow: 0 0 40px 10px #ffffff1d;
+    color: rgb(21, 41, 80);
+    padding: 10px;
+    width: 100%;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family:'Poppins';
+}
+
+.faq {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.faq-perguntas {
+    width: 100%;
+    max-width: 800px;
+}
+div details summary {
+    background-color: rgb(21, 41, 80);
+    padding: 2%;
+    border-bottom: 2px solid;;
+    color: #fff;
+    border-radius: 10px
+}
+
+div details p {
+    color: rgb(21, 41, 80);
+    padding: 2%;
+}
+
+footer {
+    padding: 3%;
+    color: #fff;
+    text-align: center;
+    background-color: rgb(21, 41, 80);  
+}
+
+@media screen and (max-width: 800px) {
+
+    header {
+        font-size: 14px;
+    }
+
+    .text1 {
+        font-size: 13px;
+    }
+
+    .text2 {
+        font-size: 10px;
+    }
+
+    .dispositivos {
+        width: 300px;
+        display: flex;
+        align-items: center;
+    }
+
+
+    .botao {
+        width: 230px;
+        cursor: pointer;
+        transition: .8s;
+        font-weight: bold;
+        margin-top: 10px;
+        border: 3px solid black;
+        border-radius: 50px;
+        padding: 5px;
+        font-size: 15px;
+        align-items: center;
+    }
+
+    .text3 {
+        font-size: 18px;
+    }
+
+    .botao1 {
+        width: 230px;
+        cursor: pointer;
+        transition: .8s;
+        font-weight: bold;
+        margin-top: 10px;
+        border: 3px solid black;
+        border-radius: 50px;
+        padding: 5px;
+        font-size: 15px;
+        align-items: center;
+    }
+
+    .text4 {
+        font-size: 15px;
+    }
+   
+    .dispo {
+        width: 300px;
+        display: flex;
+        align-items: center;
+    }
+
+    .text5 {
+        font-size: 15px;
+    }
+
+    .text7 {
+        font-size: 30px;
+    }
+
+    .botao2 {
+        width: 230px;
+        cursor: pointer;
+        transition: .8s;
+        font-weight: bold;
+        margin-top: 10px;
+        border: 3px solid black;
+        border-radius: 50px;
+        padding: 5px;
+        font-size: 15px;
+        align-items: center;
+    }
+
+    .h2 {
+        font-size: 23px;
+    }
+    
+    div details summary {
+        font-size: 13px;
+    }
+
+    div details p {
+        font-size: 13px;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+}
