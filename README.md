@@ -4,6 +4,7 @@ Bem-vindo ao repositório da **Página de Vendas** desenvolvida com HTML5 e CSS3
 
 🔗 **[Veja a página ao vivo](https://felipepolt.github.io/Pagina-de-Vendas/)**
 
+---
 
 ## 🚀 Funcionalidades
 
@@ -24,9 +25,10 @@ Bem-vindo ao repositório da **Página de Vendas** desenvolvida com HTML5 e CSS3
 
 ---
 
-📄 Licença
+##📄 Licença
 Este projeto está licenciado sob a Licença MIT — sinta-se à vontade para usar e modificar!
 
+---
 
 Desenvolvido por Felipe Poltronieri Pinto - **[Redes Sociais](https://bio.site/poltporai)** 
 
