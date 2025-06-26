@@ -13,7 +13,6 @@ Bem-vindo ao repositório da **Página de Vendas** desenvolvida com HTML5 e CSS3
 - Seções estratégicas como:
   - Headline de impacto
   - Benefícios do produto
-  - Depoimentos de clientes
   - Call to Action (CTA) com botão de compra
 
 ---
