@@ -29,5 +29,5 @@ Este projeto está licenciado sob a Licença MIT — sinta-se à vontade para us
 
 
 Desenvolvido por Felipe Poltronieri Pinto
-🔗 **[Linkedin](https://www.linkedin.com/in/felipepoltronieri/) [Instagram](https://www.instagram.com/poltporai/)**
+🔗 **[Linkedin](https://www.linkedin.com/in/felipepoltronieri/)** **[Instagram](https://www.instagram.com/poltporai/)**
 
