@@ -20,9 +20,7 @@ Bem-vindo ao repositório da **Página de Vendas** desenvolvida com HTML5 e CSS3
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
-- CSS3 (com estilização personalizada)
-- Google Fonts
-- Estrutura sem JavaScript para carregamento mais leve
+- CSS3 
 
 ---
 
@@ -30,7 +28,6 @@ Bem-vindo ao repositório da **Página de Vendas** desenvolvida com HTML5 e CSS3
 Este projeto está licenciado sob a Licença MIT — sinta-se à vontade para usar e modificar!
 
 
-
-Desenvolvido por Felipe Poltronieri
+Desenvolvido por Felipe Poltronieri Pinto
 🔗 **[Linkedin](https://www.linkedin.com/in/felipepoltronieri/) [Instagram](https://www.instagram.com/poltporai/)**
 
