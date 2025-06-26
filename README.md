@@ -32,5 +32,5 @@ Este projeto está licenciado sob a Licença MIT — sinta-se à vontade para us
 
 
 Desenvolvido por Felipe Poltronieri
-🔗 **[Linkedin]([https://www.linkedin.com/in/felipepoltronieri/])**
+🔗 **[Linkedin](https://www.linkedin.com/in/felipepoltronieri/)**
 
