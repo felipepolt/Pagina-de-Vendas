@@ -1,15 +1,9 @@
-# 📈 Página de Vendas - Produto Digital
+# 📈 Página de Vendas - Template Produtivo
 
 Bem-vindo ao repositório da **Página de Vendas** desenvolvida com HTML5 e CSS3. Este projeto tem como objetivo apresentar um layout limpo, responsivo e focado na conversão para venda de um produto digital.
 
 🔗 **[Veja a página ao vivo](https://felipepolt.github.io/Pagina-de-Vendas/)**
 
-## 🖼️ Demonstração
-
-![Demonstração da Página](https://felipepolt.github.io/Pagina-de-Vendas/assets/preview.png)
-> *Se a imagem não aparecer, certifique-se de que o caminho `assets/preview.png` está correto no seu projeto.*
-
----
 
 ## 🚀 Funcionalidades
 
