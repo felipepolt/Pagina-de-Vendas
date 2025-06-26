@@ -25,7 +25,7 @@ Bem-vindo ao repositório da **Página de Vendas** desenvolvida com HTML5 e CSS3
 
 ---
 
-##📄 Licença
+## 📄 Licença
 Este projeto está licenciado sob a Licença MIT — sinta-se à vontade para usar e modificar!
 
 ---
